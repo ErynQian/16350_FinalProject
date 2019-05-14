@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/erynqian/16350/ABC/bco.cpp
+bco.hpp
+/home/erynqian/16350/ABC/bco.hpp
+
+/home/erynqian/16350/ABC/bco.hpp
+vector
+-
+stdlib.h
+-
+iostream
+-
+fstream
+-
+math.h
+-
+ctime
+-
+
